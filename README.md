@@ -15,7 +15,7 @@
 
 ## 流程
 
-- 初始化网址 http://127.0.0.1:9999/txapi/init?Card=MMD70AB77389D8F9A18B7760B8E95BAA&version=8.9.68  `Card    卡密`   `version QQ版本`
+- 初始化网址 http://127.0.0.1:9999/txapi/init?Card=&version=8.9.68  `Card    卡密`   `version QQ版本`
 - [其余请点击开发文档](https://console-docs.apipost.cn/preview/5fab715e2dd2844a/5977bbc0502ddb6c)
 
 # 544说明
